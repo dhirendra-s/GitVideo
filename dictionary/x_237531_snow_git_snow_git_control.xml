@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Snow_git_control" max_length="40" name="x_237531_snow_git_snow_git_control" type="collection">
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Refnumber" max_length="40" name="refnumber" type="string"/>
+    </element>
+</database>

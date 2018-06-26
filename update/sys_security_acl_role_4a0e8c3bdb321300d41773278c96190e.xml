@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-26 07:56:12</sys_created_on>
+        <sys_id>4a0e8c3bdb321300d41773278c96190e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_237531_snow_git_snow_git_control.x_237531_snow_git.snow_git_control_user</sys_name>
+        <sys_package display_value="Snow_Git_control" source="x_237531_snow_git">747d8cf7db321300d41773278c9619e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Snow_Git_control">747d8cf7db321300d41773278c9619e8</sys_scope>
+        <sys_security_acl display_value="x_237531_snow_git_snow_git_control">860e8c3bdb321300d41773278c96190a</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_4a0e8c3bdb321300d41773278c96190e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-26 07:56:12</sys_updated_on>
+        <sys_user_role display_value="x_237531_snow_git.snow_git_control_user" name="x_237531_snow_git.snow_git_control_user">6d0e4c3bdb321300d41773278c9619cd</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
